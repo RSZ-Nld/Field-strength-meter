@@ -1,4 +1,4 @@
-Made a own pcb for a Field-strength-meter from Manfred Hund
+Made a pcb for a Field-strength-meter from Manfred Hund
 
 
 ### Photos
