@@ -15,3 +15,6 @@ Diagram
 ![Photo 11](https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Feldst%C3%A4rke_Nextion_Schaltplan.GIF)
 
 
+Firmware and more:
+https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Feldst%C3%A4rke_Meter.zip
+
