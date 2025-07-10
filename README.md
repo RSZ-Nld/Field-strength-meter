@@ -1,4 +1,4 @@
-Made a pcb for a Field-strength-meter from Manfred Hund
+Made a pcb for a Field-strength-meter from Manfred Hund,see Funkamateur 07 2025
 
 
 ### Photos
