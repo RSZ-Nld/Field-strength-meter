@@ -12,7 +12,7 @@ Back Pcb
 
 Diagram
 
-![Photo 11](https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Feldst%C3%A4rke_Nextion_Schaltplan.GIF)
+![Photo 11](https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Field-strength-meter.gif)
 
 
 Firmware and more:
