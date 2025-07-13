@@ -15,6 +15,12 @@ Diagram
 ![Photo 11](https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Field-strength-meter.gif)
 
 
+
+Gerber Files:
+
+https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Pcb.zip
+
+
 Firmware and more:
 
 https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Field-strength-meter.zip
