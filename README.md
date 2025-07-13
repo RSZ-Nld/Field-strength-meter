@@ -16,5 +16,6 @@ Diagram
 
 
 Firmware and more:
-https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Feldst%C3%A4rke_Meter.zip
+
+https://github.com/RSZ-Nld/Field-strength-meter/blob/main/Field-strength-meter.zip
 
